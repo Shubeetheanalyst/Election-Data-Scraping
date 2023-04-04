@@ -1,0 +1,19 @@
+Requirment
+########
+This is the final output I want, a pdf with the result sheet as shown here:
+https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/pu/63f8f28b594e164f8146a3b5/document 
+Presidential Elections: 
+https://inecelectionresults.ng/pres/elections/63f8f25b594e164f8146a213?type=pres 
+However, It drills down from here: https://inecelectionresults.ng/elections/types 
+
+Would need a table with the data like you just gave me, 
+but with a link to download the pdf, 
+and also a script way to download all the pdfs uploaded at once with the polling units number
+as the file name.
+
+Also a script where I can download all the pdfs on my computer, 
+so the script should download the files and put them in 
+folders like STATE > LGA > WARD > POLLING UNIT > 01-01-01-001-Resultsheet.pdf
+
+
+
